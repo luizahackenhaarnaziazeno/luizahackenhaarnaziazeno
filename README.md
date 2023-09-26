@@ -20,8 +20,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   </div>
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" 
-   width="400px" align="right" alt="Computador iuriCode">
-   <img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" />
+   width="400px" align="right" alt="Computador iuriCode">   <img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" min-width="100px" max-width="400px" 
+   width="200px" align="right">
+  
 
    #### Ferramenta de trabalho:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
@@ -30,7 +31,8 @@
   </div>
 
    <img width=20% src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000"/>
-   
+  
+ 
   #### contatos:
   <div> 
   <a href="https://instagram.com/_luizahnaziazeno_?igshid=YTQwZjQ0NmI0OA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
