@@ -21,6 +21,7 @@
   </div>
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" 
    width="400px" align="right" alt="Computador iuriCode">
+   <img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" />
 
    #### Ferramenta de trabalho:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
