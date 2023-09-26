@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=781FF9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luiza+Hackenhaar+Naziazeno;Computer+Science+Student;Welcome!+:%29)](https://git.io/typing-svg)                                                                                                                                                                                     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D320EF&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+Mi+nombre+es+Luiza+Hackenhaar+Naziazeno;Estudiante+De+Informática;Bienvenidos!+:%29)](https://git.io/typing-svg)  
 
-<img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" min-width="400px" max-width="400px" width="80px" align="right" high="400px" alt="lulu"/>
+
 	
 
   <div  align="center" style="margin-bottom:100px">
@@ -18,13 +18,17 @@
   #### minhas linguagens:
   <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  
   </div>
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" 
-   width="400px" align="right" alt="Computador iuriCode">   
+   width="400px" align="right" alt="Computador iuriCode">  
+   <img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
    #### Ferramenta de trabalho:
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+   
   </div>
-   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> 
+
   </div>
 
   
@@ -38,6 +42,9 @@
 </a>    
 	  
 <a href ="https://linktr.ee/luizahnaziazeno"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+
+
+
      
   
    </div>
