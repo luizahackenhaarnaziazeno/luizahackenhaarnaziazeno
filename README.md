@@ -8,7 +8,7 @@
   <div  align="center" style="margin-bottom:100px">
  <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luizahackenhaarnaziazeno&theme=synthwave" />
  <img width=42% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizahackenhaarnaziazeno&theme=synthwave" />
- <img width=42% align="center"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave"/>
+ <img width=42% align="center"  src="https://github-readme-stats.vercel.app/api?username=luizahackenhaarnaziazeno&theme=synthwave"/>
   </div>
 
 
