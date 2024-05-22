@@ -38,7 +38,7 @@
 </div>
  #### Ferramenta que tenho conhecimento:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/3faa7d82-750e-4160-a51c-ff56f7619436"/>
+
  </div>
   
   
