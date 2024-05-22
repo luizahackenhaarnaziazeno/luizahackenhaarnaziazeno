@@ -38,6 +38,7 @@
 </div>
  #### Ferramenta que tenho conhecimento:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+<img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/9e5aa338-f220-4d5b-933f-52c6d48fad56"/>
  </div>
   
   
