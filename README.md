@@ -53,8 +53,7 @@
 <a href ="https://linktr.ee/luizahnaziazeno"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 
 
-![Snake animation](https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/blob/output/github-contribution-grid-snake.svg)
-     
+
   
    </div>
 
