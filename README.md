@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   
   </div>
-   <img src="https://raw.githubusercontent.com/LuizaHackenhaarNaziazeno/luizahackenhaarnaziazeno/master/image/computer-illustration.png" min-width="400px" max-width="400px" 
+   <img src="https://raw.githubusercontent.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/master/image/computer-illustration.png" min-width="400px" max-width="400px" 
    width="400px" align="right" alt="Computador iuriCode">  
    <img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
    #### Ferramenta de trabalho:
