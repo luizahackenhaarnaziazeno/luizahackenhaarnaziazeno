@@ -21,7 +21,7 @@
   </div>
    <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
    width="400px" align="right" alt="luli">  
-   <img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
+   <img src="https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
    #### Ferramenta de trabalho:
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
    
