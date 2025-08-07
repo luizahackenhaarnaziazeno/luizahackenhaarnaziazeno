@@ -5,10 +5,14 @@
 
 	
 
-  <div  align="center" style="margin-bottom:100px">
- <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luizahackenhaarnaziazeno&theme=synthwave" />
+<div style="text-align:center; margin-bottom:100px;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=luizahackenhaarnaziazeno&theme=synthwave" 
+    style="width:45%;" 
+    alt="GitHub Streak Stats"
+  />
+</div>
 
-  </div>
 
 
 
