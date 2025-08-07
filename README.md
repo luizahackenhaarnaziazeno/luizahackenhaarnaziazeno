@@ -2,15 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=781FF9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luiza+Hackenhaar+Naziazeno;Computer+Science+Student;Welcome!+:%29)](https://git.io/typing-svg)                                                                                                                                                                                     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D320EF&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+Mi+nombre+es+Luiza+Hackenhaar+Naziazeno;Estudiante+De+Informática;Bienvenidos!+:%29)](https://git.io/typing-svg)  
 
-
-	
-
-<div style="text-align:center; margin-bottom:100px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizahackenhaarnaziazeno&theme=synthwave" style="width:45%;" alt="GitHub Streak Stats"/>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizahackenhaarnaziazeno&bg_color=0d1117&color=aba8bd&line=7868db&point=350b75&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luizahackenhaarnaziazeno&theme=darkhub&no=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
   &nbsp;
   &nbsp;
