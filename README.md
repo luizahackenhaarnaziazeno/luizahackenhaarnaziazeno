@@ -11,7 +11,7 @@
 
   &nbsp;
   &nbsp;
-  #### minhas linguagens:
+  #### Linguagens que tenho conhecimento:
   <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   
@@ -20,7 +20,7 @@
    width="400px" align="right" alt="luli">  
    <img src="https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
    
-   #### Ferramenta de trabalho:
+   #### Conhecimentos:
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
    
   </div>
@@ -29,13 +29,8 @@
   </div>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-  </div>
-
-
-</div>
-
- #### Ferramenta que tenho conhecimento:
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+ </div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
  </div>
   
