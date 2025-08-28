@@ -5,9 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizahackenhaarnaziazeno&bg_color=0d1117&color=aba8bd&line=7868db&point=350b75&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizahackenhaarnaziazeno&theme=darkhub&no=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
   &nbsp;
   &nbsp;
