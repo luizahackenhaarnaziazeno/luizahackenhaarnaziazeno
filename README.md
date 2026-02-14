@@ -9,6 +9,10 @@
 
   &nbsp;
   &nbsp;
+
+   <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
+   width="400px" align="right" alt="luli">  
+   <img src="https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738" min-width="-400px" max-width="-400px" width="200px" align="right" alt="lulu"/>
   
   #### Back-End:
   <div style="display: inline_block"><br>
@@ -19,12 +23,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" /> 
   
   </div>
-   <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
-   width="400px" align="right" alt="luli">  
-   <img src="https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
   
- </div>
-   
   #### contatos:
   <div> 
   <a href="https://instagram.com/luizahnaziazeno?igshid=YTQwZjQ0NmI0OA=="target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
