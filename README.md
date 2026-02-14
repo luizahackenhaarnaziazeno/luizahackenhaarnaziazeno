@@ -9,47 +9,27 @@
 
   &nbsp;
   &nbsp;
+  
   #### Back-End:
   <div style="display: inline_block"><br>
-  
-  | Java | C |
-  | :---: | :---: |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" /> |
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" /> 
    
   #### Front-End:
-  | Javascript |
-  | :---: |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" /> |
-
-          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" /> 
   
   </div>
    <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
    width="400px" align="right" alt="luli">  
    <img src="https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
-   
-   #### Conhecimentos:
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
+  
  </div>
-  
-  
- 
+   
   #### contatos:
   <div> 
   <a href="https://instagram.com/luizahnaziazeno?igshid=YTQwZjQ0NmI0OA=="target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizanaziazenowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luizahackenhaarnaziazeno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>    
-	  
-
-
-
-  
+	    
    </div>
-
-
