@@ -9,10 +9,19 @@
 
   &nbsp;
   &nbsp;
-  #### Linguagens que tenho conhecimento:
+  #### Back-End:
   <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  
+  | Java | C |
+  | :---: | :---: |
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" /> |
+   
+  #### Front-End:
+| Javascript |
+| :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" /> |
+
+          
   
   </div>
    <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
