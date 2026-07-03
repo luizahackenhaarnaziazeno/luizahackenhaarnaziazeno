@@ -34,3 +34,12 @@
 </a>    
 	    
    </div>
+
+## 🚀 Projetos em destaque
+
+- 🔌 [**ConsumoDeEnergia**](https://github.com/luizahackenhaarnaziazeno/ConsumoDeEnergia) — Programa em Java que processa dados de consumo elétrico de 5 subestações e calcula estatísticas mensais e anuais
+- ✅ [**TesteUnitarioUsandoJUNIT**](https://github.com/luizahackenhaarnaziazeno/TesteUnitarioUsandoJUNIT) — Suíte de testes unitários em Java com JUnit, atingindo 100% de cobertura de código
+- 🌳 [**ArvoreBinariaDeFrutas**](https://github.com/luizahackenhaarnaziazeno/ArvoreBinariaDeFrutas) — Árvore binária de busca implementada em Java, com cálculo de altura e tamanho
+- 🔗 [**Testedeendpoint**](https://github.com/luizahackenhaarnaziazeno/Testedeendpoint) — Endpoint REST em Java com JPA, documentado e retornando respostas em JSON
+- 📊 [**PraticaEmPesquisa**](https://github.com/luizahackenhaarnaziazeno/PraticaEmPesquisa) — Análise de dados hospitalares e de nascidos vivos no RS (2013–2023) com dashboard no Power BI
+- 🐍 [**OMapadaDesigualdade**](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao) — Coleta e análise em Python dos dados do ENEM 2019/2024, comparando redes de ensino e regiões   
