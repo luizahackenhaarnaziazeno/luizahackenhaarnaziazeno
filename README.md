@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26DFEE&size=35&center=true&vCenter=true&width=1000&lines=OI%2C+Meu+nome+%C3%A9+Luiza+Hackenhaar+Naziazeno;Estudante+De+Ci%C3%AAncia+Da+Computa%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+cyber+security+e+desenvolvimento+%3A%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=781FF9&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Luiza+Hackenhaar+Naziazeno;Computer+Science+Student;Looking+for+a+cyber+security+or+software+dev+internship+%3A%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D320EF&size=35&center=true&vCenter=true&width=1000&lines=HOLA%2C+Mi+nombre+es+Luiza+Hackenhaar+Naziazeno;Estudiante+De+Inform%C3%A1tica;Buscando+pasant%C3%ADa+en+cyber+security+o+desarrollo+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26DFEE&size=35&center=true&vCenter=true&width=1000&lines=OI%2C+Meu+nome+%C3%A9+Luiza+Hackenhaar+Naziazeno;Estudante+De+Ci%C3%AAncia+Da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=781FF9&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Luiza+Hackenhaar+Naziazeno;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D320EF&size=35&center=true&vCenter=true&width=1000&lines=HOLA%2C+Mi+nombre+es+Luiza+Hackenhaar+Naziazeno;Estudiante+De+Inform%C3%A1tica)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,31 +40,35 @@
 
 **Back-end**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,c&theme=dark)](https://skillicons.dev)
+
+</div>
 
 **Front-end**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+
+</div>
 
 **Ferramentas & fundamentos**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
 <br>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizahackenhaarnaziazeno&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizahackenhaarnaziazeno&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=luizahackenhaarnaziazeno&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizahackenhaarnaziazeno&layout=compact&theme=tokyonight&hide_border=true" width="48%" />-->
 
 </div>
 
