@@ -14,7 +14,7 @@
 
 <br>
 
-## <img src="https://private-user-images.githubusercontent.com/142232479/377666106-2d6d3538-ad0d-4cc7-b67f-d0fe83c70738.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMwNTU4NzcsIm5iZiI6MTc4MzA1NTU3NywicGF0aCI6Ii8xNDIyMzI0NzkvMzc3NjY2MTA2LTJkNmQzNTM4LWFkMGQtNGNjNy1iNjdmLWQwZmU4M2M3MDczOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcwM1QwNTEyNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YjZmNDVjY2QwNmQ5NjI1MmRjYTY1ZmQwNjExOTRjZjc5OTJkNDM2ZDg5ZjI3ZmIzNmRiZjlmYzYxODM3YjZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.x1Ie6AzxVuv5r3oM1_3N3ccdXapwdGs20-AHK0TtxLU](https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738)" width="30" /> Sobre mim
+## <img src="https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738" width="30" /> Sobre mim
 
 - 🎓 Bacharelado em Ciência da Computação — **PUCRS** (previsão de conclusão: 2027)
 - 🔐 Buscando estágio em **cyber security** (área de maior interesse) ou desenvolvimento de software
