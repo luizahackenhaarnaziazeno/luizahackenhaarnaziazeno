@@ -13,13 +13,14 @@
 </picture>
 
 <br>
-
+<div align="center">
+  
 ## <img src="https://github.com/user-attachments/assets/2d6d3538-ad0d-4cc7-b67f-d0fe83c70738" width="30" /> Sobre mim
-
 - 🎓 Bacharelado em Ciência da Computação — **PUCRS** (previsão de conclusão: 2027)
 - 🔐 Buscando estágio em **cyber security** (área de maior interesse) ou desenvolvimento de software
 - 🌱 Base em Linux (certificação LPI Essentials), Java e estrutura de dados
 - 📍 Canoas, Rio Grande do Sul, Brasil
+
 
 <br>
 
