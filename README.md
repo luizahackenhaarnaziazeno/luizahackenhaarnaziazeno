@@ -49,7 +49,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react&theme=dark)](https://skillicons.dev)
 
 
 
